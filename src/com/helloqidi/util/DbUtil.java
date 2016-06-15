@@ -7,11 +7,11 @@ public class DbUtil {
 
 	private String dbUrl="jdbc:mysql://localhost:3306/db_cityInfo";
 	private String dbUserName="root";
-	private String dbPassword="alexander";
+	private String dbPassword="123456";
 	private String jdbcName="com.mysql.jdbc.Driver";
 	
 	/**
-	 * 获取数据库连接
+	 * 禄帽脠隆脢媒戮脻驴芒脕卢陆脫
 	 * @return
 	 * @throws Exception
 	 */
